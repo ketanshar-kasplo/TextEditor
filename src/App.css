@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  /* height: 100%; */
+}
+
+/* #root {
+  height: 100%;
+  margin: 0;
+}
+
+.app {
+  height: 100vh;
+}
+
+.app .tox-tinymce {
+  height: 100% !important;
+} */
+
+/* Editor container */
+.tox-tinymce {
+  border-radius: 0 !important;
+}
+
+/* Toolbar */
+.tox-editor-header {
+  border-radius: 0 !important;
+}
+
+/* Status bar */
+.tox-statusbar {
+  border-radius: 0 !important;
+}
+
+/* Optional: remove shadow */
+.tox-tinymce {
+  box-shadow: none !important;
+}
